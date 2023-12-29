@@ -1,2 +1,4 @@
-# Portfolio_To-Do_App
-Portfolio To-Do application 
+# Introduction 
+Welcome to my Todo application profolio. 
+
+This project is to show of my skill in Python. 
